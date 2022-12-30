@@ -36,7 +36,7 @@ body{
 
 .imagine{
     border-radius: 15px 0px 0px 15px;
-    background-image: url(/product-preview-card-component-main/images/image-product-desktop.jpg);
+    background-image: url(image-product-desktop.jpg);
     background-size: 100% 100%;
 }
 .corpo{
@@ -148,7 +148,7 @@ body{
     }
 
     .imagine{
-        background-image: url("/product-preview-card-component-main/images/image-product-mobile.jpg");
+        background-image: url(image-product-mobile.jpg");
         background-size: 100% 100%;
         border-radius:15px 15px 0px 0px;
     }
